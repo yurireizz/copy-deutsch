@@ -41,9 +41,80 @@ CTA (opcional): ...
 
 Copie esta pasta para `~/.codex/skills/copy-deutsch` ou para a pasta `skills/copy-deutsch` dentro de `CODEX_HOME`, quando configurado. O arquivo `SKILL.md` deve ficar diretamente dentro da pasta `copy-deutsch`.
 
-## Técnicas
+## Categorias e exemplos do prompt
 
-Oposto direto; evitar o problema; erro comum; falso caminho; exagero/ironia; segmentação; redução de escopo; inversão de valor; contexto emocional ou moral; estudo de caso/comparação.
+Os exemplos abaixo reproduzem o material de origem e ilustram a construção de cada técnica; a aplicação deve usar o público e os fatos do briefing informado.
+
+### Oposto direto
+
+Provoca reação ao mostrar consequência negativa de não agir.
+
+- “Quer engordar tudo de novo? Continue comendo como antes.”
+- “Como recuperar todo o peso perdido (em tempo recorde).”
+- “A bariátrica não funciona… se você fizer isso.”
+
+### Evitar o problema
+
+Apela ao medo da perda dos resultados já conquistados.
+
+- “Como evitar o reganho de peso pós-bariátrica.”
+- “O que fazer agora para não perder todo o esforço da cirurgia.”
+
+### Erro comum
+
+Destaca equívocos frequentes que impedem o sucesso.
+
+- “A maioria das pessoas falha aqui após a bariátrica.”
+- “Por que tomar só shakes pode te deixar ainda mais inchada.”
+
+### Falso caminho
+
+Quebra pressupostos que o público acredita serem verdades.
+
+- “Dieta líquida eterna? Isso não é solução.”
+- “Quem disse que comer menos é o segredo?”
+
+### Ângulo exagerado / irônico
+
+Usa hipérbole ou ironia para aumentar impacto emocional.
+
+- “Fez bariátrica? Bem-vinda à parte difícil.”
+- “Emagrecer é fácil… se você for um robô.”
+
+### Segmentado
+
+Personaliza a mensagem para um subgrupo específico dentro do público-alvo.
+
+- “Você fez bariátrica e tem mais de 40 anos? Isso muda tudo.”
+- “Homens perdem peso diferente após a bariátrica. Entenda como.”
+
+### Redução de escopo
+
+Diminui a barreira de entrada focando em passos menores e mais viáveis.
+
+- “Como perder 2kg saudáveis por mês depois da cirurgia.”
+- “Seu próximo 1kg pode ser o mais importante da sua vida.”
+
+### Inversão de valor
+
+Muda o foco do resultado para um novo valor ou medida de sucesso.
+
+- “Pare de se pesar. Comece a se medir.”
+- “Mais músculos, menos culpa.”
+
+### Contexto emocional ou moral
+
+Eleva a discussão para valores pessoais mais profundos.
+
+- “Você fez isso por você. Continue por você.”
+- “Culpa não emagrece. Consistência sim.”
+
+### Estudo de caso / comparação
+
+Usa exemplo real ou contraste para provar um ponto.
+
+- “Ela fez bariátrica e engordou de novo — até entender isso.”
+- “Compare: 2 mulheres, 2 cirurgias. Só uma manteve o peso.”
 
 A entrega inclui revisão e seleção de hipóteses para teste. Pode acrescentar até duas técnicas extras quando realmente ampliarem o repertório.
 
