@@ -1,0 +1,4 @@
+interface:
+  display_name: "Copy Deutsch"
+  short_description: "Expanda uma ideia em 30 anúncios com ângulos distintos"
+  default_prompt: "Use $copy-deutsch para criar variações de anúncios; comece pedindo a ideia central, o público-alvo, o objetivo, o tom e o CTA opcional."
